@@ -1,4 +1,4 @@
-                                                                 Online Learning Platform (MERN Stack)
+Online Learning Platform (MERN Stack)
 
                                                                  
 This project is an online learning platform built using the MERN stack (MongoDB, Express.js, React, Node.js). The platform allows users to browse and enroll in courses, watch videos, and interact with instructors. Administrators can manage users and courses, while learners can track their progress and complete assessments.
