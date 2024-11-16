@@ -79,4 +79,6 @@ Conclusion:
 
 The Online Learning Platform provides essential features for a robust learning experience. By using the MERN stack, this project is scalable, maintainable, and can easily be expanded with more features such as quizzes, certificates, or additional admin tools.
 
+Project demo link - https://drive.google.com/file/d/1iNSmBy5_sTLrpU3DjBsm0NtllzKFBDdE/view?usp=sharing
+
 
